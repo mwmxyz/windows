@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: https://mwmxyz.github.io/windows/docs
-baseurl: /project
+url: https://mwmxyz.github.io/windows/
+baseurl: /docs
 
 # variables
 name: Docs
