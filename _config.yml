@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /windows/:year:month:day/:title
 url: https://mwmxyz.github.io/windows/
 baseurl: /windows
 
